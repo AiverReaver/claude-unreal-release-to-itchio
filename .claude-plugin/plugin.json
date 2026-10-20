@@ -1,0 +1,9 @@
+{
+  "name": "unreal-release",
+  "version": "1.0.0",
+  "description": "In an Unreal Engine project, shows Dev / Release / Other buttons above the prompt (and /ue-release) to package the game for Windows and push it to itch.io with butler",
+  "author": { "name": "AiverReaver" },
+  "repository": "https://github.com/AiverReaver/claude-unreal-release-to-itchio",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

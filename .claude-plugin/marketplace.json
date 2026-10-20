@@ -1,0 +1,6 @@
+{
+  "name": "claude-unreal-release-to-itchio",
+  "owner": { "name": "AiverReaver" },
+  "description": "Claude Code mod that packages Unreal Engine games for Windows and pushes them to itch.io",
+  "plugins": [{ "name": "unreal-release", "source": "./" }]
+}
